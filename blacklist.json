@@ -1,0 +1,17 @@
+{
+  "version" : 1,
+  "blacklist" : [
+    {
+      "severity" : "2",
+      "rules" : [
+        "/https?:\\/\\/userscripts\\.org\\/scripts\\/(source|version)/(102614).*\\.user\\.js/"
+      ]
+    },
+    {
+      "severity" : "5",
+      "rules" : [
+        "/https?:\\/\\/userscripts\\.org\\/scripts\\/(source|version)/(174702|378686|382653|382616|390602).*\\.user\\.js/"
+      ]
+    }
+  ]
+}
