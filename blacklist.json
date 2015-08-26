@@ -10,8 +10,9 @@
     {
       "severity" : "5",
       "rules" : [
-        "/https?:\\/\\/userscripts\\.org\\/scripts\\/(source|version)/(174702|378686|382653|382616|390602).*\\.user\\.js/"
-      ]
+        "/https?:\\/\\/sf-addon\\.com\\/.*\\/.*\\.user\\.js/"
+      ],
+      "reason" : "Offers4U popups at multiple pages"
     }
   ]
 }
