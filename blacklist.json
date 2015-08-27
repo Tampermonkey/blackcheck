@@ -8,11 +8,12 @@
       ]
     },
     {
-      "severity" : "5",
+      "name": "SaveFrom.net helper",
+      "severity" : "1",
       "rules" : [
         "/https?:\\/\\/sf-addon\\.com\\/.*\\/.*\\.user\\.js/"
       ],
-      "reason" : "Offers4U popups at multiple pages"
+      "reason" : "May show advertisements"
     }
   ]
 }
