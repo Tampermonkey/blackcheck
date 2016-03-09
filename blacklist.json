@@ -9,11 +9,12 @@
     },
     {
       "name": "SaveFrom.net helper",
-      "severity" : "1",
+      "severity" : "3",
       "rules" : [
-        "/https?:\\/\\/sf-addon\\.com\\/.*\\/.*\\.user\\.js/"
+        "/https?:\\/\\/sf-addon\\.com\\/.*\\/.*\\.user\\.js/",
+        "/https?:\\/\\/.*\\.sf-helper\\.com\\/.*\\.user\\.js/"
       ],
-      "reason" : "May show advertisements"
+      "reason" : "Shows advertisements"
     }
   ]
 }
