@@ -15,6 +15,15 @@
         "/https?:\\/\\/.*\\.sf-helper\\.com\\/.*\\.user\\.js/"
       ],
       "reason" : "Shows advertisements"
+    },
+    {
+      "severity" : "8",
+      "reasons": {
+        "en": "Used for a phishing compain to compromise users of baon-nutrition.com"
+      },
+      "rules" : [
+        "/https?:\\/\\/files\\.ulysse\\.travel\\/.*\\.user\\.js/"
+      ]
     }
   ]
 }
