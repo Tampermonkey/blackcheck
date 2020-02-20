@@ -19,7 +19,7 @@
     {
       "severity" : "8",
       "reasons": {
-        "en": "Used for a phishing compain to compromise users of baon-nutrition.com"
+        "en": "Used for a phishing campaign to compromise users of baon-nutrition.com"
       },
       "rules" : [
         "/https?:\\/\\/files\\.ulysse\\.travel\\/.*\\.user\\.js/"
